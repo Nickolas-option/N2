@@ -1,9 +1,9 @@
 #include <iostream>
 #include <cmath>
 using namespace std;
-int main1() {
+int main() {
   string login,pass;
-  cout << "Put here your new login and password";
+  cout << "Put here your new login and password\n";
   cin >> login >> pass;
   string login1,pass1;
   cin >> login1 >> pass1;
